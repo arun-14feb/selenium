@@ -1,4 +1,4 @@
-# selenium
+# Selenium
 
 ### Run this project
 ```
